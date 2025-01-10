@@ -40,7 +40,7 @@ Hands-on projects that fuel my learning and practice with programming. I am defi
 ## 📝 Blog Posts  
 Random personal posts that I have no better location for. These are things I want to document related to cybersecuriy.
 
-- [OSINT Investigation (Phishing) Blogpost](https://github.com/OmnissiahCultist/OSINT-Phishing-Investigation)  
+- [OSINT Investigation (Phishing) Blogpost](https://github.com/OmnissiahCultist/OSINT_investigation_phishing)  
   UNDER CONSTRUCTION - A blog post detailing my experience using OSINT tools to investigate a phishing attempt and identify suspicious connections. Real world example but the actual individuals involved will not be referenced in order to discourage exploitation/abuse.
 
 <br>
