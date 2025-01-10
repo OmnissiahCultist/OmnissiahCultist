@@ -21,7 +21,7 @@ A collection of cybersecurity-related projects I am working or have worked on.
 ## 📚 Resource Collection 
 Curated lists of resources I’ve found useful on my cybersecurity journey and want to share.
 
-- [InfoSec Resources](https://github.com/OmnissiahCultist/InfoSec-Resources)  
+- [InfoSec Resources](https://github.com/OmnissiahCultist/InfoSec_Resources)  
   A continuously updated collection of useful cybersecurity tools, frameworks, and educational content.
 
 ---
