@@ -1,16 +1,66 @@
-## Hi there 👋
+## Hi there, welcome to my GitHub profile! 👋
+- My name is Zach, and I am determined to get into the tech industry!
+
+<br>
+
+# About me...
+
+- **🔍 Aspiring Cybersecurity Professional**
+- **🌐 Currently Working On**: Home labs, other IT projects, and learning as much as I can.
+- **📚 Learning**: Information Security Concepts and Tools of the Trade mainly through rigorous self study. I am also pursuing a Bachelors in Cyber Defense and Analysis.
+
+<br>
+
+# My Projects...
+A collection of cybersecurity-related projects I am working or have worked on.
+
+<br>
+
+---
+
+## 📚 Resource Collection 
+Curated lists of resources I’ve found useful on my cybersecurity journey and want to share.
+
+- [InfoSec Resources](https://github.com/DefinitelyNotAReplicant/InfoSec-Resources)  
+  A continuously updated collection of useful cybersecurity tools, frameworks, and educational content.
+
+---
+
+## 💻 Code Projects  
+Hands-on projects that fuel my learning and practice with programming. I am definetly still a beginner but the best way to learn is to create!
+
+- [One-Time Pad Code](https://github.com/DefinitelyNotAReplicant/One-Time-Pad-Python)  
+  IN PROGRESS - A project to replicate the steps of creating a one-time pad encryption method.
+
+- [Hardening Flask Webapp + MySQL DB](https://github.com/DefinitelyNotAReplicant/Webapp_Securing_Project)  
+  CONTINUOUS - A project exploring webapp and database communications, deployment methods, and security hardening techniques. 
+
+---
+
+## 📝 Blog Posts  
+Random personal posts that I have no better location for. These are things I want to document related to cybersecuriy.
+
+- [OSINT Investigation (Phishing) Blogpost](https://github.com/DefinitelyNotAReplicant/OSINT-Phishing-Investigation)  
+  UNDER CONSTRUCTION - A blog post detailing my experience using OSINT tools to investigate a phishing attempt and identify suspicious connections. Real world example but the actual individuals involved will not be referenced in order to discourage exploitation/abuse.
+
+<br>
+
+# Certifications...
+
+- **[CompTIA Security+]**
+- **[Google Cybersecurity Certificate]**
+
+<br>
+
+# Let's Connect!
+
+- **[Linkedin](https://www.linkedin.com/in/zstrange0/)**
 
 <!--
-**OmnissiahCultist/OmnissiahCultist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills and Tools
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Defensive Security**: [List relevant tools or technologies].
+- **Incident Response**: [List relevant tools or technologies].
+- **Threat Hunting**: [List relevant tools or technologies].
+- **Forensic Investigation**: [List relevant tools or technologies].
 -->
