@@ -27,7 +27,7 @@ Curated lists of resources I’ve found useful on my cybersecurity journey and w
 ---
 
 ## 💻 Code Projects  
-Hands-on projects that fuel my learning and practice with programming. I am definetly still a beginner but the best way to learn is to create!
+Hands-on projects that fuel my learning and practice with programming. I am definetly still a beginner but the best way to learn is to create so please don't be too harsh.
 
 - [One-Time Pad Code](https://github.com/DefinitelyNotAReplicant/One-Time-Pad-Python)  
   IN PROGRESS - A project to replicate the steps of creating a one-time pad encryption method.
