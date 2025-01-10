@@ -54,10 +54,13 @@ Random personal posts that I have no better location for. These are things I wan
 
 # Let's Connect!
 
-- **[Linkedin](https://www.linkedin.com/in/zstrange0/)**
+- **[LinkedIn](https://www.linkedin.com/in/zstrange0/)**
 
 <!--
-## Skills and Tools
+## 
+Might add later when I actually get work experience :<
+
+Skills and Tools
 
 - **Defensive Security**: [List relevant tools or technologies].
 - **Incident Response**: [List relevant tools or technologies].
