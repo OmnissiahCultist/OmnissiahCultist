@@ -12,7 +12,7 @@
 <br>
 
 # My Projects...
-A collection of cybersecurity-related projects I am working or have worked on.
+Bellow is a collection of cybersecurity-related projects I am working or have worked on.
 
 <br>
 
