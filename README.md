@@ -32,7 +32,7 @@ Hands-on projects that fuel my learning and practice with programming. I am defi
 - [One-Time Pad Code](https://github.com/OmnissiahCultist/One-time-pad-python-practice)  
   IN PROGRESS - A project to replicate the steps of creating a one-time pad encryption method.
 
-- [Hardening Flask Webapp + MySQL DB](https://github.com/OmnissiahCultist/Webapp_Securing_Project)  
+- [Hardening Flask Webapp + SQL DB](https://github.com/OmnissiahCultist/Webapp_Securing_Project)  
   CONTINUOUS - A project exploring webapp and database communications, deployment methods, and security hardening techniques. 
 
 ---
