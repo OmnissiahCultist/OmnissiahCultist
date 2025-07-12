@@ -52,9 +52,9 @@ Random personal posts that I have no better location for. These are things I wan
 
 <br>
 
-# Let's Connect!
+# Let's Connect :)
 
-- **[LinkedIn](https://www.linkedin.com/in/zstrange0/)**
+- **[My Stuff!](https://www.linkedin.com/in/zstrange0/](https://linktr.ee/OmnissiahCultist))**
 
 <!--
 ## 
